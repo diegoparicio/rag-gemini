@@ -1,0 +1,11 @@
+previos/
+venv/
+__pycache__/
+.vscode/
+
+*.pkl
+*.faiss
+
+hash.txt
+.env
+.streamlit/

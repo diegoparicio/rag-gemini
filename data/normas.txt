@@ -1,0 +1,10 @@
+[NORMAS ALQUILER]
+El alquiler incluye wifi, agua y luz.
+No se permiten mascotas en el piso.
+
+[CONTRATO]
+El contrato mínimo es de 6 meses.
+La fianza es de dos meses.
+
+[UBICACIÓN]
+El piso está en el centro de la ciudad.
